@@ -1,9 +1,11 @@
 <<?php
 
-  class produk
+  // jualan produk
+  // komik
+  // game
+  class Produk
   {
   }
 
-  $produk1 = new produk();
-
-  ?>
+  $produk1 = new Produk();
+  $produk2 = new Produk();
