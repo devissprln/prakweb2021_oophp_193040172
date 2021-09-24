@@ -25,7 +25,6 @@ class Produk
   }
 
 
-
   public function getLabel()
   {
     return "$this->penulis, $this->penerbit";
